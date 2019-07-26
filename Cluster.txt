@@ -1,0 +1,8 @@
+How to conect to cluster:
+
+Programa para Windows:
+SSH Client
+Ahi completar: 1) Host 207.248.75.21 b) Port 2222 c) Username tsaldano
+
+Otro programa:
+Putty portable
