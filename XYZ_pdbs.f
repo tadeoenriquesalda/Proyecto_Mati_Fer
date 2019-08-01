@@ -47,5 +47,3 @@ c------ SUBROUTINES
 
       return
       end
-
-C mi cambio
