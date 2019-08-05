@@ -1,6 +1,6 @@
 Tryptophan dimethylallyltransferase family
 
-https://www.uniprot.org/uniprot/?query=job%3AM201908058471C63D39733769F8E060B506551E1234F129V&columns=id%2Centry%20name%2Cprotein%20names%2Cgenes%2Corganism
+https://www.uniprot.org/uniprot/?query=job:M201908056746803381A1F0E0DB47453E0216320D826C60C
 
 
 
