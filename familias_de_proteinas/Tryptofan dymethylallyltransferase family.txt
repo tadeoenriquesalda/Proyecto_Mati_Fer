@@ -1,0 +1,7 @@
+Tryptophan dimethylallyltransferase family
+
+https://www.uniprot.org/uniprot/?query=job%3AM201908058471C63D39733769F8E060B506551E1234F129V&columns=id%2Centry%20name%2Cprotein%20names%2Cgenes%2Corganism
+
+
+
+En el link de Uniprot se encuentran listadas 8 proteínas de la familia Tryptophan dimethylallyltransferase.
