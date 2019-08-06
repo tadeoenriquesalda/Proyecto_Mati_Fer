@@ -1,0 +1,41 @@
+AB hydrolase superfamily
+
+protein: Triacylglycerol lipase
+family: lipase
+organism: rhizomucor miehei
+protmiscuity link: http://ufq.unq.edu.ar/protmiscuity/#/protein/4 
+
+protein: Triacylglycerol lipase
+family: pseudomonas lipase
+organism: burkholderia cepacia
+protmiscuity link: http://ufq.unq.edu.ar/protmiscuity/#/protein/11
+
+protein: (S)-hydroxynitrile lyase/(S)-acetone-cyanohydrin lyase/Oxynitrilase/HNL
+family: hydroxynitrile lyase
+organism: hevea brasiliensis
+protmiscuity link: http://ufq.unq.edu.ar/protmiscuity/#/protein/14
+
+protein: Lipase
+family: lipase
+organism: triticum aestivum
+protmiscuity link: http://ufq.unq.edu.ar/protmiscuity/#/protein/24
+
+protein: Triacylglycerol lipase
+family: lipase
+organism: thermomyces lanuginosus
+protmiscuity link: http://ufq.unq.edu.ar/protmiscuity/#/protein/26
+
+protein: Carboxylesterase BioH
+family: carboxylesterase bioH
+organism: escherichia coli
+protmiscuity link: http://ufq.unq.edu.ar/protmiscuity/#/protein/35
+
+protein: lipase
+family: lipase
+organism: rhizopus niveus
+protmiscuity link: http://ufq.unq.edu.ar/protmiscuity/#/protein/45
+
+protein: Pancreatic triacylglycerol lipase
+family: lipase
+organism: sus scrofa
+protmiscuity link: http://ufq.unq.edu.ar/protmiscuity/#/protein/55
