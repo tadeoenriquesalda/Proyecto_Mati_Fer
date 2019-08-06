@@ -8,8 +8,34 @@ Posibles comparaciones:
 
 Name:		Protease Retropepsin
 Uniprot ID:	P03367
+CODNAS link:	http://ufq.unq.edu.ar/codnas/entry.php?pool_name=3BVA_A
 
 
-Name:           Protease Retropepsin		 Protease Retropepsin
-Uniprot ID:     A0F6C5				 A0F7J4
 
+Name:           Protease Retropepsin								Protease Retropepsin
+Uniprot ID:     A0F6C5										A0F7J4
+CODNAS link:	http://ufq.unq.edu.ar/codnas/entry.php?pool_name=2RKG_A				http://ufq.unq.edu.ar/codnas/entry.php?pool_name=2RKF_A
+
+
+
+Name:		Aspergillopepsin II heavy chain							Aspergillopepsin II light chain
+Uniprot ID:	P24665										P24665
+CODNAS link:	http://ufq.unq.edu.ar/codnas/entry.php?pool_name=1Y43_B				http://ufq.unq.edu.ar/codnas/entry.php?pool_name=1Y43_A
+
+
+Name:		PROTEASE RETROPEPSIN								PROTEASE RETROPEPSIN
+Uniprot ID:	P04587										P04587
+CODNAS link:	http://ufq.unq.edu.ar/codnas/entry.php?pool_name=1FG6_C				http://ufq.unq.edu.ar/codnas/entry.php?pool_name=1FFF_C
+
+
+Name:		RETROPEPSIN									RETROPEPSIN
+Uniprot ID:	P03369										P03369
+CODNAS link:	http://ufq.unq.edu.ar/codnas/entry.php?pool_name=1B6K_A				http://ufq.unq.edu.ar/codnas/entry.php?pool_name=1B6J_A
+
+Name:		PROTEASE RETROPEPSIN								PROTEASE RETROPEPSIN
+Uniprot ID:     P03369										P03367
+CODNAS link:	http://ufq.unq.edu.ar/codnas/entry.php?pool_name=1MT7_A				http://ufq.unq.edu.ar/codnas/entry.php?pool_name=1LZQ_A
+
+Name:		HIV-1 PROTEASE RETROPEPSIN
+Uniprot ID:	P03367
+CODNAS link:	http://ufq.unq.edu.ar/codnas/entry.php?pool_name=1DAZ_C
