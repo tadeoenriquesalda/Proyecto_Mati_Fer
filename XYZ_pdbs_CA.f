@@ -29,7 +29,10 @@
       end
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5258f89f032927fc1bb17ab40bc2aa7dbf0b00b3
 c------ SUBROUTINES
 
       integer function readstring(file,card,flen)
@@ -47,4 +50,7 @@ c------ SUBROUTINES
 
       return
       end
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5258f89f032927fc1bb17ab40bc2aa7dbf0b00b3

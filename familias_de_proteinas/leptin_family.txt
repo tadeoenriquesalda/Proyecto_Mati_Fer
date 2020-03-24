@@ -1,0 +1,6 @@
+Leptin family
+
+https://www.uniprot.org/uniprot/?query=family:"leptin+family"&sort=score
+
+
+Estuve leyendo sobre la leptina y me pareció interesante así que busqué para ver si se puede analizar si tiene familia.

@@ -1,3 +1,0 @@
-Este sería un ejemplo de promiscuidad?
-
-https://www.rcsb.org/3d-view/3BVA?preset=ligandInteraction&sele=GOL

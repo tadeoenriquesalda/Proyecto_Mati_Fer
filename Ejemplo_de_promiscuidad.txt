@@ -1,0 +1,10 @@
+Este sería un ejemplo de promiscuidad?
+
+https://www.rcsb.org/3d-view/3BVA?preset=ligandInteraction&sele=GOL
+
+
+Agrego otro posible ejemplo, es el receptor de la leptina que puse como ejemplo de familia:
+
+Uniprot:  P48357
+Name: Leptin Receptor-antibody complex
+PDB ID: 3V6O
