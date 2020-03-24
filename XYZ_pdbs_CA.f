@@ -47,7 +47,4 @@ c------ SUBROUTINES
 
       return
       end
-<<<<<<< HEAD
-=======
 
->>>>>>> 91b592d40bb610a4ae97f74a659e23bd97d8c464
