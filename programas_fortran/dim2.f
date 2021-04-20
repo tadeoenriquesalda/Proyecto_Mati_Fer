@@ -1,34 +1,30 @@
+
+
       IMPLICIT NONE
 
       integer readstring
-      integer i,slen,flen,long,j,k,m
-      integer icont
+      integer i,icont,slen,flen,long,j,k,m
       character*1000 card
 
-      icont=0
+      open(50,file='dim2')
+   
 
-      open(50,file='tempXX')
-      open(31,file='dimXX')
+      icont=0
       do while (readstring(5,card,slen).ge.0 )
          long=slen
-         if(card(1:4).eq.'ATOM') then
-          if(card(14:15).eq.'CA') then
-           if(card(17:17).eq.' '.or. card(17:17).eq.'A' ) then
-           write(50,111) card(1:80)
-           icont=icont+1
-           endif
-          endif
+         if(card(1:5).ne.'     ') then
+               icont=icont+1
          endif
       enddo
-      write(31,*) icont
 
+c      write(50,222) '      parameter(icont2=',icont,')'
+      write(50,221) icont
       close(50)
-      close(31)
-111   FORMAT(A80)
+
+222   FORMAT(A23,I6,A1) 
+221   FORMAT(I6)
       stop
       end
-
-
 
 c------ SUBROUTINES
 
@@ -47,7 +43,3 @@ c------ SUBROUTINES
 
       return
       end
-<<<<<<< HEAD
-=======
-
->>>>>>> 91b592d40bb610a4ae97f74a659e23bd97d8c464

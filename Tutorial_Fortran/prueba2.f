@@ -1,6 +1,6 @@
-program ejemplo1.f90
+      PROGRAM 'ejemplo1.f90'
 
-      implicit none
+      IMPLICIT NONE
       integer:: a,b,c
       real:: e,f,g
 
@@ -14,6 +14,5 @@ program ejemplo1.f90
       g=e+f
 
       print *, 'Las sumas son: ',c,g
-      pause
 
-      end program
+      END PROGRAM

@@ -1,6 +1,6 @@
-PROGRAM prueba1
+      PROGRAM prueba1
       IMPLICIT NONE
 	  
 	  PRINT*, 'Hello World'
 	  
-END PROGRAM prueba1
+      END PROGRAM prueba1

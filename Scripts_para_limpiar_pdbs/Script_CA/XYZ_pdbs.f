@@ -10,21 +10,26 @@
       open(50,file='tempXX')
       open(31,file='dimXX')
       do while (readstring(5,card,slen).ge.0 )
-         long=slen
-         if(card(1:4).eq.'ATOM') then
-          if(card(14:15).eq.'CA') then
-           if(card(17:17).eq.' '.or. card(17:17).eq.'A' ) then
-           write(50,111) card(1:80)
-           icont=icont+1
+       long=slen
+        if(card(1:4).eq.'ATOM') then
+         if(card(14:15).eq.'CA') then
+          if(card(17:17).eq.' '.or. card(17:17).eq.'A' ) then
+           if(card(22:22).eq.'A') then
+            write(50,111) card(1:80)
+            icont=icont+1
            endif
           endif
          endif
+        endif
       enddo
-      write(31,*) icont
+      write(50,112) 'Cantidad de carbonos alpha: ',icont
+      write(31,112) 'Cantidad de carbonos alpha: ',icont
 
       close(50)
       close(31)
 111   FORMAT(A80)
+112   FORMAT(/,A,1x,I6)
+
       stop
       end
 
